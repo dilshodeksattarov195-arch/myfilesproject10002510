@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchuync",
+        "uuid": 22020230,
+        "checksum": "0c8hm"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
